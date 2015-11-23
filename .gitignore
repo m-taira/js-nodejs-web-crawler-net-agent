@@ -1,5 +1,10 @@
 /**/node_modules
 .vscode
+
+# chapter2/02
 /chapter2/02/img
 /chapter2/02/*.html
 
+# chapter2/03
+/chapter2/03/nodejs.jp
+/chapter2/03/test*
