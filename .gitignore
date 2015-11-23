@@ -1,2 +1,5 @@
-02/node_modules
-img
+/**/node_modules
+.vscode
+/chapter2/02/img
+/chapter2/02/*.html
+
