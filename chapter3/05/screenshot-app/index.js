@@ -8,7 +8,7 @@ var fs = require('fs');
 
 var win = null;
 app.on('ready', function(){
-  win = new BrowserWindow({width: 1024, width:800});
+  win = new BrowserWindow({width: 1024, heigth:800});
   win.loadUrl(TARGET_URL);
   win.webContents.on('did-finish-load', captureFunc)
 });
